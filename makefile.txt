@@ -1,8 +1,8 @@
-EXECUTABLES=Lab1
+EXECUTABLES=time-4-baby-and-me
 
-SRC=Lab1.c
+SRC=time-4-baby-and-me.c
 
-OBJ=Lab1.o
+OBJ=time-4-baby-and-me.o
 
 CC=gcc
 
